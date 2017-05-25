@@ -1,5 +1,7 @@
-# U-bersicht-Nightshades
+# Übersicht-Nightshades
 This widget alows to quickly apply a dark overlay or 'Shades' to the wallpaper. With a cmd+click on the shades icon you can turn the $wag on and off, and adjust the level as needed. Warning does not block UV rays.
+
+*Note: Interactions must be enabled in the Übersicht preferences to change shade level*
 
 For use with Übersicht ==> http://tracesof.net/uebersicht/
 
